@@ -1,8 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "hable/version"
+Dir["#{__dir__}/hable/**/*.rb"].each { |file| require file }
 
 module Hable
-  class Error < StandardError; end
-  # Your code goes here...
 end

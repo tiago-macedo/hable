@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    hable (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  hable!
+
+BUNDLED WITH
+   2.3.5
