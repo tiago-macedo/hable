@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 module Hable
-  
   class Table
     attr_reader :header, :stub
     attr_accessor :data
